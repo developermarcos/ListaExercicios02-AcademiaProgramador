@@ -23,7 +23,7 @@ namespace Exercicio02.ConsoleApp
             {
                 for (int y = 0; y < valores.Length - 1; y++)
                 {
-                    if (valores[y] > valores[y+1])
+                    if (valores[y] < valores[y+1])
                     {
                         ordena = valores[y+1];
                         valores[y+1] = valores[y];

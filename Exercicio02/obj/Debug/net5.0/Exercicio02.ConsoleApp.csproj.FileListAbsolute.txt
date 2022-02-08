@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\bin\Debug\net5.0\Exercicio02.ConsoleApp.exe
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\bin\Debug\net5.0\Exercicio02.ConsoleApp.deps.json
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\bin\Debug\net5.0\Exercicio02.ConsoleApp.runtimeconfig.json
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\bin\Debug\net5.0\Exercicio02.ConsoleApp.runtimeconfig.dev.json
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\bin\Debug\net5.0\Exercicio02.ConsoleApp.dll
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\bin\Debug\net5.0\ref\Exercicio02.ConsoleApp.dll
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\bin\Debug\net5.0\Exercicio02.ConsoleApp.pdb
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\Exercicio02.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\Exercicio02.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\Exercicio02.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\Exercicio02.ConsoleApp.AssemblyInfo.cs
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\Exercicio02.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\Exercicio02.ConsoleApp.dll
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\ref\Exercicio02.ConsoleApp.dll
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\Exercicio02.ConsoleApp.pdb
+C:\Users\marco\source\repos\ListaExercicios02CondicionaisAcademiaProgramador\Exercicio02\obj\Debug\net5.0\Exercicio02.ConsoleApp.genruntimeconfig.cache
